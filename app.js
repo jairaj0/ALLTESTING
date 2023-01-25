@@ -20,3 +20,5 @@ fetch("https://demo.btrlexchange.com/api/global", requestOptions)
     error && console.log("error by client=>" , error)
 }
   };
+
+sendGetRequest()
